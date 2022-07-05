@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6761046f-8478-4905-960e-ad24863eabb5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/github_remote$nnsc4.coverage" NAME="nnsc4 Coverage Results" MODIFIED="1657007070472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tandemBP$nnsc4.coverage" NAME="nnsc4 Coverage Results" MODIFIED="1628668281947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bilateral_network$variable_scope.coverage" NAME="variable_scope Coverage Results" MODIFIED="1628750425460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/anaconda3/envs/envl/Lib/site-packages/tensorflow_core/python/ops" />
+    <SUITE FILE_PATH="coverage/Bilateral_network$session.coverage" NAME="session Coverage Results" MODIFIED="1630325168014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/anaconda3/envs/envl/Lib/site-packages/tensorflow_core/python/client" />
+    <SUITE FILE_PATH="coverage/Bilateral_network$nnsc4.coverage" NAME="nnsc4 Coverage Results" MODIFIED="1656987050300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nnsc4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="246" lean-forward="true" selection-start-line="246" selection-end-line="246" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>output_folder_ma</find>
+      <find>tf.va</find>
+      <find>ceshi_sigma</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/home/inputAIEM/canshu_ceshi.csv" />
+        <option value="$PROJECT_DIR$/home/lookahead.py" />
+        <option value="$PROJECT_DIR$/lookahead" />
+        <option value="$PROJECT_DIR$/lookahead.py" />
+        <option value="$PROJECT_DIR$/nnsc4.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.nnsc4">
+    <configuration name="nnsc4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tandemBP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nnsc4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="session" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tandemBP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/anaconda3/envs/envl/Lib/site-packages/tensorflow_core/python/client" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/anaconda3/envs/envl/Lib/site-packages/tensorflow_core/python/client/session.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="variable_scope" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tandemBP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/anaconda3/envs/envl/Lib/site-packages/tensorflow_core/python/ops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/anaconda3/envs/envl/Lib/site-packages/tensorflow_core/python/ops/variable_scope.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.nnsc4" />
+        <item itemvalue="Python.session" />
+        <item itemvalue="Python.variable_scope" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6761046f-8478-4905-960e-ad24863eabb5" name="Default Changelist" comment="" />
+      <created>1627351915514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627351915514</updated>
+      <workItem from="1627351916724" duration="31807000" />
+      <workItem from="1627607168612" duration="2711000" />
+      <workItem from="1627610204419" duration="1185000" />
+      <workItem from="1627614773349" duration="28000" />
+      <workItem from="1627616422225" duration="4295000" />
+      <workItem from="1627632546449" duration="105568000" />
+      <workItem from="1628665679214" duration="1029000" />
+      <workItem from="1628666733910" duration="284000" />
+      <workItem from="1628667114958" duration="1715000" />
+      <workItem from="1628669105962" duration="71000" />
+      <workItem from="1628669253122" duration="2222000" />
+      <workItem from="1628673425091" duration="396000" />
+      <workItem from="1628675821799" duration="12712000" />
+      <workItem from="1628728280792" duration="18417000" />
+      <workItem from="1628814872961" duration="19467000" />
+      <workItem from="1629074058451" duration="8653000" />
+      <workItem from="1629160371706" duration="7489000" />
+      <workItem from="1629250800143" duration="644000" />
+      <workItem from="1629701133134" duration="2843000" />
+      <workItem from="1629765298071" duration="1524000" />
+      <workItem from="1629776079470" duration="60000" />
+      <workItem from="1629776932496" duration="816000" />
+      <workItem from="1629883219320" duration="1194000" />
+      <workItem from="1629946089089" duration="633000" />
+      <workItem from="1629986342508" duration="14000" />
+      <workItem from="1630028386862" duration="19869000" />
+      <workItem from="1630111504243" duration="11444000" />
+      <workItem from="1630283577790" duration="29035000" />
+      <workItem from="1630370108115" duration="5458000" />
+      <workItem from="1630483429105" duration="701000" />
+      <workItem from="1630574193730" duration="4808000" />
+      <workItem from="1630636542934" duration="12651000" />
+      <workItem from="1630717752792" duration="13035000" />
+      <workItem from="1630888194288" duration="27768000" />
+      <workItem from="1631061137682" duration="2742000" />
+      <workItem from="1631170345547" duration="1420000" />
+      <workItem from="1631171800837" duration="878000" />
+      <workItem from="1631327817548" duration="1248000" />
+      <workItem from="1631515178266" duration="3711000" />
+      <workItem from="1631581538958" duration="6293000" />
+      <workItem from="1631761620165" duration="5113000" />
+      <workItem from="1631861975516" duration="617000" />
+      <workItem from="1631930674063" duration="1333000" />
+      <workItem from="1632299144075" duration="1227000" />
+      <workItem from="1632812125110" duration="1995000" />
+      <workItem from="1633507255759" duration="1113000" />
+      <workItem from="1633571147655" duration="892000" />
+      <workItem from="1633573706414" duration="4590000" />
+      <workItem from="1633699688367" duration="715000" />
+      <workItem from="1634002903033" duration="141000" />
+      <workItem from="1634628738330" duration="9000" />
+      <workItem from="1634629018125" duration="608000" />
+      <workItem from="1635319819354" duration="182000" />
+      <workItem from="1636094417808" duration="23871000" />
+      <workItem from="1636164520443" duration="6942000" />
+      <workItem from="1636181184665" duration="1652000" />
+      <workItem from="1636182865171" duration="387000" />
+      <workItem from="1636183286570" duration="5210000" />
+      <workItem from="1636423319186" duration="753000" />
+      <workItem from="1637655871863" duration="1254000" />
+      <workItem from="1637738324626" duration="716000" />
+      <workItem from="1637847262292" duration="1473000" />
+      <workItem from="1641212309902" duration="298000" />
+      <workItem from="1641540505372" duration="6482000" />
+      <workItem from="1641547563432" duration="6232000" />
+      <workItem from="1643261555373" duration="7086000" />
+      <workItem from="1643278753410" duration="4860000" />
+      <workItem from="1643954855382" duration="1853000" />
+      <workItem from="1644213225532" duration="5464000" />
+      <workItem from="1644405428499" duration="18000" />
+      <workItem from="1644538728521" duration="673000" />
+      <workItem from="1645146684618" duration="2248000" />
+      <workItem from="1645149018498" duration="4495000" />
+      <workItem from="1645323965247" duration="611000" />
+      <workItem from="1645495762530" duration="6192000" />
+      <workItem from="1645518122275" duration="3098000" />
+      <workItem from="1647416466318" duration="819000" />
+      <workItem from="1647565442397" duration="21376000" />
+      <workItem from="1648712016093" duration="2392000" />
+      <workItem from="1648868778871" duration="2094000" />
+      <workItem from="1649123698533" duration="650000" />
+      <workItem from="1649337721253" duration="689000" />
+      <workItem from="1649583599417" duration="311000" />
+      <workItem from="1649751291716" duration="9157000" />
+      <workItem from="1649901301194" duration="98000" />
+      <workItem from="1650021512095" duration="26050000" />
+      <workItem from="1650278798482" duration="8588000" />
+      <workItem from="1650340600489" duration="10472000" />
+      <workItem from="1650510072462" duration="1552000" />
+      <workItem from="1652701015519" duration="1994000" />
+      <workItem from="1652711150846" duration="37441000" />
+      <workItem from="1653276562363" duration="1371000" />
+      <workItem from="1653378839182" duration="3975000" />
+      <workItem from="1653485541583" duration="3419000" />
+      <workItem from="1653872101629" duration="115000" />
+      <workItem from="1653878295796" duration="6985000" />
+      <workItem from="1655340868315" duration="560000" />
+      <workItem from="1655881827125" duration="1276000" />
+      <workItem from="1655954420473" duration="3667000" />
+      <workItem from="1656292074528" duration="4224000" />
+      <workItem from="1656466981745" duration="119000" />
+      <workItem from="1656486201976" duration="1335000" />
+      <workItem from="1656726464295" duration="525000" />
+      <workItem from="1656934856750" duration="11980000" />
+      <workItem from="1657005844179" duration="2672000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="643147000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.32908848" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.2533512" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32210836" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39531478" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/inputAIEM/sanshe.csv" />
+    <entry file="file://$PROJECT_DIR$/../BPfanyan/main_random.py" />
+    <entry file="file://$PROJECT_DIR$/inputAIEM/sigma.csv" />
+    <entry file="file://$PROJECT_DIR$/inputAIEM/canshu.csv" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/YTandWSR/Lib/site-packages/tensorflow_core/python/framework/meta_graph.py" />
+    <entry file="file://$PROJECT_DIR$/home/matest_loss.txt" />
+    <entry file="file://E:/CNN反演/AIEM_CNN(two_channel)/main.py" />
+    <entry file="file://$PROJECT_DIR$/../AIEM_CNN(two_channel)/main.py" />
+    <entry file="file://$PROJECT_DIR$/home/inputAIEM/sigma.csv" />
+    <entry file="file://$PROJECT_DIR$/home/inputAIEM/outside_canshu.csv" />
+    <entry file="file://$PROJECT_DIR$/home/inputAIEM/outside_sigma.csv" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/envl/Lib/site-packages/pandas/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/tandemBP/双向网络/nnsc4.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/envl/Lib/site-packages/tensorflow_core/python/ops/variable_scope.py" />
+    <entry file="file://D:/tandemBP/nnsc4.py" />
+    <entry file="file://$PROJECT_DIR$/home/inputAIEM/canshu.csv" />
+    <entry file="file://$PROJECT_DIR$/home/inputAIEM/sigma_ceshi.csv" />
+    <entry file="file://$PROJECT_DIR$/home/inputAIEM/canshu_ceshi.csv" />
+    <entry file="file://$PROJECT_DIR$/../CnnFANYAN/绍然哥的CNN/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="183" column="36" lean-forward="true" selection-start-line="183" selection-start-column="36" selection-end-line="183" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/envl/Lib/site-packages/tensorflow_core/python/client/session.py" />
+    <entry file="file://$PROJECT_DIR$/../../../../Xavier/daily practice/future.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Xavier/FPN_Tensorflow-master11.18(7)(复件)/FPN_Tensorflow-master/tools/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/../../../../Xavier/FPN_Tensorflow-master11.18(7)(复件)/FPN_Tensorflow-master/tools/inference.py" />
+    <entry file="file://$PROJECT_DIR$/../../../../Xavier/FPN_Tensorflow-master11.18(7)(复件)/FPN_Tensorflow-master/tools/inference_for_coco.py" />
+    <entry file="file://$PROJECT_DIR$/../../../../Xavier/FPN_Tensorflow-master11.18(7)(复件)/FPN_Tensorflow-master/data/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/../../../../Xavier/FPN_Tensorflow-master11.18(7)(复件)/FPN_Tensorflow-master/tools/train_with_placeholder.py" />
+    <entry file="file://$PROJECT_DIR$/../../../../Xavier/FPN_Tensorflow-master11.18(7)(复件)/FPN_Tensorflow-master/tools/test_coco.py" />
+    <entry file="file://$PROJECT_DIR$/../../../../Xavier/FPN_Tensorflow-master11.18(7)(复件)/FPN_Tensorflow-master/tools/test.py" />
+    <entry file="file://$PROJECT_DIR$/../../../../Xavier/FPN_Tensorflow-master11.18(7)(复件)/FPN_Tensorflow-master/tools/train.py" />
+    <entry file="file://$PROJECT_DIR$/../tandemBP/nnsc4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="746" column="108" lean-forward="true" selection-start-line="746" selection-start-column="108" selection-end-line="746" selection-end-column="108" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/envl/Lib/site-packages/tensorflow_core/python/framework/ops.py" />
+    <entry file="file://D:/串联/nnsc4.py" />
+    <entry file="file://D:/Bilateral network/nnsc4.py" />
+    <entry file="file://$PROJECT_DIR$/../../../../正向提取+神经网络/TandemNet/nnsc4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/envl/Lib/site-packages/tensorflow_addons/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/TZ/Lib/site-packages/keras_radam/optimizer_v2.py" />
+    <entry file="file://$PROJECT_DIR$/home/lookahead.py" />
+    <entry file="file://$PROJECT_DIR$/lookahead" />
+    <entry file="file://$PROJECT_DIR$/lookahead.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="79" lean-forward="true" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../地物图像分割/VAN-Classification-main/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nnsc4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="246" lean-forward="true" selection-start-line="246" selection-end-line="246" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
